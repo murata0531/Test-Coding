@@ -1,6 +1,6 @@
 # Test-Coding
 
-nextjsのボイラープレート
+nextjsでテストを書く
 
 # 環境
 
